@@ -78,11 +78,11 @@ const config = {
     links: [
       {
         name: "Twitter",
-        href: "https://twitter.com/samxstudio"
+        href: "https://twitter.com/TheCrazyChauhan"
       },
       {
         name: "Contact",
-        href: "mailto:contact@samxie.net"
+        href: "mailto:abhinabpratap1311@gmail.com"
       }
     ]
   },
