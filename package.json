@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
+    "start": "next --openssl-legacy-provider start",
     "export": "next export"
   }
 }
