@@ -40,7 +40,6 @@ const config = {
         ],
         image: "https://pixelmator-pro.s3.amazonaws.com/pro/layouting/1.3.4/img_layouting@2x.jpg"
       },
-    // "start": "next start",
 
       {
         title: "Isn't that amazing?",
